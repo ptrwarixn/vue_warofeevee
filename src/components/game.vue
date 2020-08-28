@@ -7,7 +7,7 @@
     <div class="row">
       <div class="col">
         <button @click="randomDamage(1,50)" class="btn btn-danger mb-4" style="margin :10px">Attack</button> 
-        <button @click="randomDamageSP(10,100)" class="btn btn-warning mb-4" style="margin :10px">UltimateAttack</button> 
+        <button @click="randomDamageSP(10,100)" class="btn btn-warning mb-4" style="margin :10px">Ultimate Attack</button> 
       </div>
     </div>
     <div class="container-fluid">
